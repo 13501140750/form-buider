@@ -8,12 +8,12 @@
   ],
   "homepage": "https://formbuilder.online/",
   "repository": {
-    "url": "http://github.com/kevinchappell/formBuilder",
+    "url": "https://github.com/13501140750/form-buider",
     "type": "git"
   },
   "author": "Kevin Chappell <kevin.b.chappell@gmail.com>",
   "contributors": [],
-  "bugs": "https://github.com/kevinchappell/formBuilder/issues",
+  "bugs": "https://github.com/13501140750/form-buider/issues",
   "description": "A jQuery plugin for drag and drop form building",
   "keywords": [
     "jquery-plugin",
